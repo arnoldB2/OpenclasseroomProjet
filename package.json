@@ -1,0 +1,23 @@
+{
+  "name": "OpenclasseroomProjet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnoldB2/OpenclasseroomProjet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnoldB2/OpenclasseroomProjet/issues"
+  },
+  "homepage": "https://github.com/arnoldB2/OpenclasseroomProjet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
